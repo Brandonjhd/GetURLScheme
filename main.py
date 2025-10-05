@@ -64,7 +64,7 @@ class ModernIPAToolApp(ctk.CTk):
     # 初始化主窗口
     def __init__(self):
         super().__init__()
-        self.title("iOS URL Scheme 提取器")
+        self.title("GetURLScheme")
         self.geometry("900x700")
         self.minsize(800, 600)
         self.extractor = IPAURLSchemeExtractor()
@@ -97,7 +97,7 @@ class ModernIPAToolApp(ctk.CTk):
         # 标题栏
         title_frame = ctk.CTkFrame(main_container, fg_color="transparent")
         title_frame.grid(row=0, column=0, sticky="ew", padx=30, pady=(30, 10))
-        self.make_label(title_frame, "📱 iOS URL Scheme 提取器", size=28, bold=True).pack(side="left")
+        self.make_label(title_frame, "📱 GetURLScheme", size=28, bold=True).pack(side="left")
         appearance_menu = ctk.CTkOptionMenu(
             title_frame,
             values=["Light", "Dark", "System"],
