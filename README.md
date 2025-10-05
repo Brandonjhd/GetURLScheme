@@ -1,5 +1,6 @@
 # GetURLScheme
 <img src="image.png" alt="icon" width="30%">
+iOS URLScheme提取器
 
 ## 简介
 GetURLScheme 是一个可自动解析 IPA 文件、提取其中 URL Scheme 的开源工具。
