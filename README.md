@@ -3,7 +3,7 @@
 ![icon](image.png)
 
 ## 简介
-GetURLScheme 是一个可自动解析 IPA 文件、提取其中 URL Scheme 的工具。
+GetURLScheme 是一个可自动解析 IPA 文件、提取其中 URL Scheme 的开源工具。
 
 ## 主要功能
 - 解析 IPA 文件，提取 CFBundleURLSchemes 信息
