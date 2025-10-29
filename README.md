@@ -2,8 +2,8 @@
 
 <img src="image.png" alt="icon" width="30%">
 
-## 🌐 选择语言 | Choose Language | 言語選択 | 언어 선택 | 選擇語言
-- [🇨🇳 中文](#zh-cn)
+### 🌐 选择语言 | Choose Language | 言語選択 | 언어 선택 | 選擇語言
+- [🇨🇳 简体中文](#zh-cn)
 - [🇹🇼 繁體中文](#zh-tw)
 - [🇺🇸 English](#en)
 - [🇯🇵 日本語](#ja)
@@ -11,7 +11,7 @@
 
 ---
 
-## 🇨🇳 中文 {#zh-cn}
+## 🇨🇳 简体中文 {#zh-cn}
 
 自动解析 IPA 文件，提取 URL Scheme —— 移动应用开发者的必备工具
 
@@ -41,7 +41,7 @@ GetURLScheme 是一个可自动解析 IPA 文件、提取其中 URL Scheme 的�
 
 [Brandonjhd](https://github.com/Brandonjhd)
 
-### License
+### 许可证
 
 本项目采用 CC BY-NC-SA 4.0 协议开源，使用、引用及分享时需署名，不得用于商业用途，衍生作品须采用相同协议共享。
 
