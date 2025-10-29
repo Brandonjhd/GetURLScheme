@@ -168,7 +168,7 @@ GetURLScheme は、IPA ファイルを自動解析して URL スキームを抽�
 
 - IPA ファイルを解析し、CFBundleURLSchemes 情報を抽出します
 - 複数の IPA ファイルをバッチ処理可能
-- すべてのスキームを一覧表示
+- すべての CFBundleURLSchemes を一覧表示
 - テキストまたは JSON 形式で結果出力
 
 ### 作者
@@ -206,13 +206,13 @@ IPA 파일에서 URL 스킴을 자동으로 추출 — 모바일 개발자를 �
 
 ### 소개
 
-GetURLScheme는 IPA 파일을 자동으로 분석하여 URL 스킴을 추출하는 오픈소스 도구입니다。
+GetURLScheme는 IPA 파일을 자동으로 분석하여 URL 스킴을 추출하는 오픈소스 도구입니다.
 
 ### 주요 기능
 
 - IPA 파일을 분석하여 CFBundleURLSchemes 정보를 추출합니다
 - 배치 처리 지원
-- 모든 스킴을 리스트로 출력
+- 모든 CFBundleURLSchemes를 목록으로 표시
 - 결과를 텍스트 또는 JSON으로 내보내기
 
 ### 저자
