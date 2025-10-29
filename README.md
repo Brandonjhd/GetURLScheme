@@ -2,7 +2,7 @@
 
 <img src="image.png" alt="icon" width="30%">
 
-### 🌐 选择语言 | Choose Language | 言語選択 | 언어 선택 | 選擇語言
+### 🌐 选择语言 | 選擇語言 | Choose Language | 言語選択 | 언어 선택
 - [🇨🇳 简体中文](#zh-cn)
 - [🇹🇼 繁體中文](#zh-tw)
 - [🇺🇸 English](#en)
@@ -11,7 +11,8 @@
 
 ---
 
-## 🇨🇳 简体中文 {#zh-cn}
+<a id="zh-cn"></a>
+## 🇨🇳 简体中文
 
 自动解析 IPA 文件，提取 URL Scheme —— 移动应用开发者的必备工具
 
@@ -54,7 +55,8 @@ GetURLScheme 是一个可自动解析 IPA 文件、提取其中 URL Scheme 的�
 
 ---
 
-## 🇹🇼 繁體中文 {#zh-tw}
+<a id="zh-tw"></a>
+## 🇹🇼 繁體中文
 
 自動解析 IPA 檔案，擷取 URL Scheme —— 行動應用開發者必備工具
 
@@ -97,7 +99,8 @@ GetURLScheme 是一個可自動解析 IPA 檔案並擷取其中 URL Scheme 的�
 
 ---
 
-## 🇺🇸 English {#en}
+<a id="en"></a>
+## 🇺🇸 English
 
 Open-source tool to automatically extract URL Schemes from IPA files — a must-have for mobile developers.
 
@@ -141,7 +144,8 @@ Attribution required; commercial use is prohibited; derivative works must be sha
 
 ---
 
-## 🇯🇵 日本語 {#ja}
+<a id="ja"></a>
+## 🇯🇵 日本語
 
 IPA ファイルから URL スキームを自動抽出 — モバイル開発者必携ツール
 
@@ -184,7 +188,8 @@ GetURLScheme は、IPA ファイルを自動解析して URL スキームを抽�
 
 ---
 
-## 🇰🇷 한국어 {#ko}
+<a id="ko"></a>
+## 🇰🇷 한국어
 
 IPA 파일에서 URL 스킴을 자동으로 추출 — 모바일 개발자를 위한 필수 도구
 
@@ -221,9 +226,6 @@ GetURLScheme는 IPA 파일을 자동으로 분석하여 URL 스킴을 추출하�
 ### 안내사항
 
 - 오픈 소스 학습 및 비상업적 용도에만 사용하세요
-- 저자의 명확한 허가 없이 상업적 용도로 사용을 금합니다
-- 이 프로젝트를 사용할 때 저작자 표시와 저장소 링크를 반드시 유지하세요
-- 문의사항이나 제안이 있으시면 Issues에 남겨 주세요. 사용해 주셔서 감사합니다!
 - 저자의 명확한 허가 없이 상업적 용도로 사용을 금합니다
 - 이 프로젝트를 사용할 때 저작자 표시와 저장소 링크를 반드시 유지하세요
 - 문의사항이나 제안이 있으시면 Issues에 남겨 주세요. 사용해 주셔서 감사합니다!
