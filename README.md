@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/stars/Brandonjhd/GetURLScheme?style=social" alt="GitHub Repo Stars"/>
   </a>
   <img src="https://img.shields.io/github/license/Brandonjhd/GetURLScheme?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/badge/platform-iOS-blue?style=flat-square" alt="Platform" />
+  <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
   <img src="https://img.shields.io/badge/open-source-brightgreen?style=flat-square" alt="Open Source" />
   <img src="https://img.shields.io/github/languages/top/Brandonjhd/GetURLScheme?style=flat-square" alt="Main Language" />
   <img src="https://img.shields.io/github/contributors/Brandonjhd/GetURLScheme?style=flat-square" alt="Contributors" />
@@ -63,7 +63,7 @@ GetURLScheme 是一个可自动解析 IPA 文件、提取其中 URL Scheme 的�
     <img src="https://img.shields.io/github/stars/Brandonjhd/GetURLScheme?style=social" alt="GitHub Repo Stars"/>
   </a>
   <img src="https://img.shields.io/github/license/Brandonjhd/GetURLScheme?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/badge/platform-iOS-blue?style=flat-square" alt="Platform" />
+  <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
   <img src="https://img.shields.io/badge/open-source-brightgreen?style=flat-square" alt="Open Source" />
   <img src="https://img.shields.io/github/languages/top/Brandonjhd/GetURLScheme?style=flat-square" alt="Main Language" />
   <img src="https://img.shields.io/github/contributors/Brandonjhd/GetURLScheme?style=flat-square" alt="Contributors" />
@@ -106,7 +106,7 @@ Open-source tool to automatically extract URL Schemes from IPA files — a must-
     <img src="https://img.shields.io/github/stars/Brandonjhd/GetURLScheme?style=social" alt="GitHub Repo Stars"/>
   </a>
   <img src="https://img.shields.io/github/license/Brandonjhd/GetURLScheme?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/badge/platform-iOS-blue?style=flat-square" alt="Platform" />
+  <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
   <img src="https://img.shields.io/badge/open-source-brightgreen?style=flat-square" alt="Open Source" />
   <img src="https://img.shields.io/github/languages/top/Brandonjhd/GetURLScheme?style=flat-square" alt="Main Language" />
   <img src="https://img.shields.io/github/contributors/Brandonjhd/GetURLScheme?style=flat-square" alt="Contributors" />
@@ -150,7 +150,7 @@ IPA ファイルから URL スキームを自動抽出 — モバイル開発者
     <img src="https://img.shields.io/github/stars/Brandonjhd/GetURLScheme?style=social" alt="GitHub Repo Stars"/>
   </a>
   <img src="https://img.shields.io/github/license/Brandonjhd/GetURLScheme?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/badge/platform-iOS-blue?style=flat-square" alt="Platform" />
+  <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
   <img src="https://img.shields.io/badge/open-source-brightgreen?style=flat-square" alt="Open Source" />
   <img src="https://img.shields.io/github/languages/top/Brandonjhd/GetURLScheme?style=flat-square" alt="Main Language" />
   <img src="https://img.shields.io/github/contributors/Brandonjhd/GetURLScheme?style=flat-square" alt="Contributors" />
@@ -193,7 +193,7 @@ IPA 파일에서 URL 스킴을 자동으로 추출 — 모바일 개발자를 �
     <img src="https://img.shields.io/github/stars/Brandonjhd/GetURLScheme?style=social" alt="GitHub Repo Stars"/>
   </a>
   <img src="https://img.shields.io/github/license/Brandonjhd/GetURLScheme?style=flat-square" alt="License" />
-  <img src="https://img.shields.io/badge/platform-iOS-blue?style=flat-square" alt="Platform" />
+  <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform" />
   <img src="https://img.shields.io/badge/open-source-brightgreen?style=flat-square" alt="Open Source" />
   <img src="https://img.shields.io/github/languages/top/Brandonjhd/GetURLScheme?style=flat-square" alt="Main Language" />
   <img src="https://img.shields.io/github/contributors/Brandonjhd/GetURLScheme?style=flat-square" alt="Contributors" />
@@ -221,6 +221,9 @@ GetURLScheme는 IPA 파일을 자동으로 분석하여 URL 스킴을 추출하�
 ### 안내사항
 
 - 오픈 소스 학습 및 비상업적 용도에만 사용하세요
+- 저자의 명확한 허가 없이 상업적 용도로 사용을 금합니다
+- 이 프로젝트를 사용할 때 저작자 표시와 저장소 링크를 반드시 유지하세요
+- 문의사항이나 제안이 있으시면 Issues에 남겨 주세요. 사용해 주셔서 감사합니다!
 - 저자의 명확한 허가 없이 상업적 용도로 사용을 금합니다
 - 이 프로젝트를 사용할 때 저작자 표시와 저장소 링크를 반드시 유지하세요
 - 문의사항이나 제안이 있으시면 Issues에 남겨 주세요. 사용해 주셔서 감사합니다!
